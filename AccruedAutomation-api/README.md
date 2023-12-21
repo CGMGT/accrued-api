@@ -1,7 +1,7 @@
-# Backend Accrued Automation
+# Backend Tigo Accrued Automation
 ###### Version 1.0
 
-Servicios REST para  Accrued Automation.
+Servicios REST para Tigo Accrued Automation.
 
 ## Configuration
 - Spring Boot 2.6.0-SNAPSHOT
@@ -16,7 +16,7 @@ Servicios REST para  Accrued Automation.
 ## Usage
 #### Clone repository
 ```
-git clone https://github.com/CGMGT/accrued-api/src.git 
+git clone https://gitlab-bsd.tigo.com.gt/BSD-APPS/Ventas/AccruedAutomationApp/src.git 
 ```
 #### Project information
 ```

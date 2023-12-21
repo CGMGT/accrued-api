@@ -1,0 +1,40 @@
+/AccruedAutomation-frontend/src/main/webapp/
+/AccruedAutomation-frontend/.idea/
+/AccruedAutomation-frontend/target/
+/AccruedAutomation-api/.idea/
+/AccruedAutomation-api/target/
+/AccruedAutomation-api/accrued-automation-api.iml
+/AccruedAutomation-job-scheduler/.idea/
+/AccruedAutomation-job-scheduler/target/
+/AccruedAutomation-job-scheduler/accrued-automation-job-scheduler.iml
+/AccruedAutomation-frontend-src/package-lock.json
+
+
+# FRONTEND
+
+#idea
+.idea
+
+# dependencies
+/AccruedAutomation-frontend-src/node_modules
+
+# testing
+/AccruedAutomation-frontend-src/coverage
+
+# production
+/AccruedAutomation-frontend-src/build
+/AccruedAutomation-frontend-src/documentation
+/AccruedAutomation-frontend-src/.vscode
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
